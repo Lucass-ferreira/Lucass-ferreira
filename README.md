@@ -17,7 +17,7 @@
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucass-ferreira&show_icons=true&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-ferreira&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucass-ferreira&show_icons=true&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-ferreira&layout=compact&theme=tokyonight)
 
 ## Linguagens e Tecnologias
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" target="_blank" height="30px"></img></code>
