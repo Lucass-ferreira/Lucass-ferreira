@@ -18,8 +18,12 @@
 
 <div align="center">
 
-<a href="#" style="text-decoration: none;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucass-ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Estatísticas"></img>ㅤㅤㅤ<a>
-<a href="#" style="text-decoration: none;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-ferreira&layout=compact&theme=tokyonight&custom_title=Linguagens"></img><a>
+<a href="#" style="text-decoration: none;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucass-ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Estatísticas"></img>
+</a>ㅤㅤㅤ
+<a href="#" style="text-decoration: none;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-ferreira&layout=compact&theme=tokyonight&custom_title=Linguagens"></img>
+</a>
 
 </div>
 
