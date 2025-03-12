@@ -22,7 +22,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucass-ferreira&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Estatísticas"></img>
 </a>ㅤㅤㅤ
 <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-ferreira&layout=compact&theme=tokyonight&custom_title=Linguagens"></img>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucass-ferreira&theme=tokyonight&layout=compact&custom_title=Linguagens"></img>
 </a>
 
 </div>
