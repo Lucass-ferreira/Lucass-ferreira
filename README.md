@@ -3,7 +3,7 @@
  <br>
 
  - 🌎 Ipira - <strong>BA</strong>
- - 📖 Estudante de Analise e desenvovimento de sistemas <strong>3/5</strong>
+ - 📖 Estudante de Analise e desenvolvimento de sistemas <strong>4/5</strong>
  - 👨‍💻 Desenvolvedor Front-End | Criando Experiências Digitais.
  - 💬 Vamos trocar uma ideia? <a href="mailto:lucasferreiracontatoo@gmail.com" target="_blank">Me chame aqui</a> ou no <a href="https://www.linkedin.com/in/lucas-ferreira-65142329b/" target="_blank">LinkedIn.</a>
  
